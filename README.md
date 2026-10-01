@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Bruno!
 
-💻 Programming Student | 🐍 Python Learner | 🚀 Future Developer
+🐍 Python Developer | 💻 Software Development | 🚀 Building Real-World Projects
 
-I'm currently learning programming and developing my skills in Python.
+I'm currently developing my skills in programming, with a focus on Python and software development.
 
-My main focus is learning programming fundamentals, improving my problem-solving skills, and building projects to grow my portfolio.
+My main focus is building practical projects, improving my problem-solving skills, and learning technologies used in real-world applications.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🐍 Currently studying Python
-- 🌐 Learning Web Development
-- 🚀 Building my first projects
-- 📚 Always learning and improving
+- 🐍 Focused on Python and programming fundamentals
+- 💻 Studying software and web development
+- 🌐 Learning backend and web technologies
+- 📚 Continuously improving my programming skills
+- 🚀 Building projects to develop my portfolio
 
 ---
 
@@ -44,38 +45,37 @@ My main focus is learning programming fundamentals, improving my problem-solving
 ## 📚 Currently Learning
 
 - Python
-- Django
-- Git & GitHub
 - Programming Logic
-- Data Structures
+- Object-Oriented Programming
+- Django
 - REST APIs
 - Databases
 - Web Development
+- Data Structures
 
 ---
 
 ## 🚀 Projects
 
-🔹 Python Programming Exercises  
-🔹 Beecrowd Challenges  
-🔹 Python Projects  
-🔹 Web Development Projects  
-🔹 Personal Projects
+🔹 Python Automation
+Automation project developed with Python to automate the registration of thousands of products in a system.
+Technologies: Python, PyAutoGUI, Pandas
 
----
+🔗 View Project
 
-## 🎯 Goals
+🔹 Chatbot with AI
+Interactive AI chatbot developed with Python and Streamlit, integrating a generative AI API and maintaining conversation history during the session.
 
-- Improve my Python skills
-- Learn Django and backend development
-- Build real-world projects
-- Improve my Git & GitHub workflow
-- Build a strong programming portfolio
+Technologies: Python, Streamlit, API, AI
+
+🔗 View Project
 
 ---
 
 ## 📈 My Journey
 
-I'm at the beginning of my programming journey, focused on learning, practicing, building projects, and improving every day.
+I'm continuously learning and developing my programming skills through courses, practical exercises, and personal projects.
+
+My current focus is turning what I learn into practical applications while building a solid foundation for a career in software development.
 
 > "Every expert was once a beginner."
